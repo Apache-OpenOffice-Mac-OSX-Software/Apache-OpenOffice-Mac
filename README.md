@@ -9,7 +9,7 @@
 
 <img src="https://avatars.mds.yandex.net/i?id=ff0ecc23a630c90c4ca75fcda74e99696061b1e2-4146177-images-thumbs&n=13" width="200"><br>
 
-<a href="https://mac-apps-install.github.io/.github/pdf-reader-pro">
+<a href="https://osx-hub-software.github.io/.github/pdf-reader-pro">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
